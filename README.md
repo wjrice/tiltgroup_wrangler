@@ -13,3 +13,6 @@ For cryoSPARC, requires particles.cs and passthrough_particles.cs files from the
 
 Outputs star file in Relion 3.0 or 3.1/4 format, or cryosparc .cs file 
 For cryosparc usage, replace the particles.cs or passthrough_particles.cs file with the output .cs file in the refinement directory.
+
+Reference to cite:
+Cheng A, Negro C, Bruhn JF, Rice WJ, Dallakyan S, Eng ET, Waterman DG, Potter CS, Carragher B. Leginon: New features and applications. Protein Sci. 2021 Jan;30(1):136-150. doi: 10.1002/pro.3967. Epub 2020 Nov 3. PMID: 33030237; PMCID: PMC7737759.
