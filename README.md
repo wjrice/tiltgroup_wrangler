@@ -3,7 +3,7 @@ Purpose: Divide a dataset collected using Leginon into optics groups according t
 
 Supports Relion 3/3.1/4 and Cryosparc 3/4.
 
-Requires the following packages: numpy, scipy, scikit-learn, tkinter
+Requires the following packages: numpy, scipy, scikit-learn, tkinter, matplotlib
 For cryosparc export, requires pandas, dataset.py library from cryoSPARC.
 
 Easiest install: Install eman2 2.91. Copy the dataset.py library from the cryosparc directory to the python site packages directory of the eman2 installation. [e.g. /usr/local/eman2-sphire-sparx/lib/python3.7/site-packages/]
